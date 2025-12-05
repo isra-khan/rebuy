@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCer4IKQvcbL4qvRoyvBZSFZPSCmHW_8Yc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>362014050175</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.rebuyproject</string>
+	<key>PROJECT_ID</key>
+	<string>authproj-8cadd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authproj-8cadd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:362014050175:ios:efe3c81e7b4849a813fc4a</string>
+</dict>
+</plist>
